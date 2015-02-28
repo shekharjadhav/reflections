@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 To keep track of logs (previous version)
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+you can add files which you want to commit to staging area to keep track of them .
